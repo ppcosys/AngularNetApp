@@ -9,7 +9,7 @@ import { response } from 'express';
 })
 export class AppComponent implements OnInit {
 
-  title = 'AngularApp';
+  title = 'Angular App';
   users: any;
 
   constructor(private http: HttpClient) {}
