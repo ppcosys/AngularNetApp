@@ -4,5 +4,5 @@ Angular CMS application with .NET API backend which is currently being developed
 Technologies used:
 - Angular 17
 - TypeScript
-- ASP.NET API,
+- ASP.NET API
 - .NET 7.0
